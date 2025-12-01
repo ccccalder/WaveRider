@@ -1,0 +1,13 @@
+{
+    "asset": "7fac1fc0f404a684d97fe418c540c706",
+    "fileName": "019abd43-18d4-7944-b25b-4a85460bc91b.wav",
+    "prompt": "short, wave crashing and spraying one time",
+    "negativePrompt": "repeating, reverb",
+    "model": "ee31b223-3fe1-4ae6-bf54-d8a80bb4b0e1",
+    "modelName": "Text to Sound",
+    "customSeed": -1,
+    "w3CTraceId": "8b646302120fd8a8bb9594c8a69400cd",
+    "duration": 1.3600000143051148,
+    "autoTrim": true,
+    "hasReference": false
+}

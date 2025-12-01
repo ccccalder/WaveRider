@@ -1,0 +1,13 @@
+{
+    "asset": "590e24618a008d5449945f2182f33279",
+    "fileName": "019abe35-736d-789f-9318-8d1fcaf9b2c6.wav",
+    "prompt": "bicicle bell ringing 3 times",
+    "negativePrompt": "distorted",
+    "model": "ee31b223-3fe1-4ae6-bf54-d8a80bb4b0e1",
+    "modelName": "Text to Sound",
+    "customSeed": -1,
+    "w3CTraceId": "63d5160cf3cb1bea8b9335f666758095",
+    "duration": 2.319999933242798,
+    "autoTrim": true,
+    "hasReference": false
+}

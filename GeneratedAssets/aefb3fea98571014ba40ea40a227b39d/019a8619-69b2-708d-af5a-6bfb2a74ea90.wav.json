@@ -1,0 +1,13 @@
+{
+    "asset": "aefb3fea98571014ba40ea40a227b39d",
+    "fileName": "019a8619-69b2-708d-af5a-6bfb2a74ea90.wav",
+    "prompt": "splash",
+    "negativePrompt": "",
+    "model": "ee31b223-3fe1-4ae6-bf54-d8a80bb4b0e1",
+    "modelName": "Text to Sound",
+    "customSeed": -1,
+    "w3CTraceId": "6f672e96cb6d77039dbfacaecbc43f8e",
+    "duration": 1.659999966621399,
+    "autoTrim": true,
+    "hasReference": false
+}

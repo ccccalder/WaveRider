@@ -1,0 +1,20 @@
+{
+    "asset": "28f6f73bcafe51740a7288e7e00b8f02",
+    "fileName": "019a861d-19d8-731b-a2a6-dd8c261aa687.png",
+    "prompt": "Blue Water",
+    "negativePrompt": "watermark, background, blurry",
+    "model": "5b5b2af1-6ea4-4266-b087-cc9f3bf4f450",
+    "modelName": "Flux.1 Dev",
+    "customSeed": -1,
+    "w3CTraceId": "a637167e002a7f9b216d237b4fa3a712",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}

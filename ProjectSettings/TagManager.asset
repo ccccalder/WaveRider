@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Wave
+  - SpeedBuff
+  - PointBuff
+  - DoublePointBuff
+  - Seagull
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: very back
+    uniqueID: 2932646015
+    locked: 0
+  - name: behind
+    uniqueID: 1565191981
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: front
+    uniqueID: 2358630171
+    locked: 0
+  - name: veryfront
+    uniqueID: 1528412705
+    locked: 0
+  - name: most front
+    uniqueID: 3863727405
+    locked: 0
+  m_RenderingLayers:
+  - Default
